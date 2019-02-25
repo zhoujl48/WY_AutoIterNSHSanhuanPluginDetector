@@ -1,0 +1,7 @@
+thrift-sasl==0.2.1
+sasl
+impyla
+hdfs
+requests
+scikit_learn
+h5py
